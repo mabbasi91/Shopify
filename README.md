@@ -11,4 +11,4 @@ On Shopify, we have exactly 100 sneaker shops, and each of these shops sells onl
 
 * What is its value?
 
-Data file can be collected from [here.](https://docs.google.com/spreadsheets/d/16i38oonuX1y1g7C_UAmiK9GkY7cS-64DfiDMNiR41LM/edit#gid=0)
+The data file can be collected from [here.](https://docs.google.com/spreadsheets/d/16i38oonuX1y1g7C_UAmiK9GkY7cS-64DfiDMNiR41LM/edit#gid=0)
